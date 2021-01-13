@@ -1,2 +1,2 @@
 # awesome_games
-Collection of games with awesome user interface.
+Collections of games with awesome user interface.
